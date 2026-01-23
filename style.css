@@ -47,7 +47,7 @@ nav ul li a {
     background: linear-gradient(to right, #0b5ed7, #0dcaf0);
     height: 90vh;
     display: flex;
-    justify-content: center;
+    justify-content: center;flex-end
     align-items: center;
     text-align: center;
     color: white;
@@ -118,4 +118,5 @@ footer {
     text-align: center;
     padding: 15px;
 }
+
 \
