@@ -1,0 +1,2 @@
+// Reserved for future animations or image sliders
+console.log("Wolf International Website Loaded");
