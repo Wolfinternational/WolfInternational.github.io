@@ -113,12 +113,17 @@ footer {
   padding: 15px;
   background: #000;
   font-size: 14px;
-  .big-image img {
+  .image-box {
     width:100%;
-    hight:160px;     /* smaller box */
-    object-fit:cover;
-    border-radius:10px;
+    max-width:900px;
+    margin:0 auto;
+  }
+.img-box img { 
+  width:100%;
+  hight:auto;
+  display:block;
 }
+
 
 
 
