@@ -113,4 +113,10 @@ footer {
   padding: 15px;
   background: #000;
   font-size: 14px;
+  .big-image img {
+    width:100%;
+    hight:85vh;
+    object-fit:cover;
+    display:block;
 }
+
