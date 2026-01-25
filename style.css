@@ -115,10 +115,11 @@ footer {
   font-size: 14px;
   .big-image img {
     width:100%;
-    hight:180px;     /* smaller box */
+    hight:160px;     /* smaller box */
     object-fit:cover;
     border-radius:10px;
 }
+
 
 
 
