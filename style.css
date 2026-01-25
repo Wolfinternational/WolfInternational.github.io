@@ -115,8 +115,8 @@ footer {
   font-size: 14px;
   .big-image img {
     width:100%;
-    hight:85vh;
+    hight:300px;
     object-fit:cover;
-    display:block;
 }
+
 
